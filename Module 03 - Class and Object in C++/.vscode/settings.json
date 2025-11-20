@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "ostream": "cpp"
+    },
+    "cSpell.words": [
+        "karim",
+        "rahim"
+    ]
+}

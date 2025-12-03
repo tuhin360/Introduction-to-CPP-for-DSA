@@ -1,3 +1,1 @@
-sakib khan 15 89
-rakib hasan 18 65
-akib ahmed 40 38
+akib 40 38
